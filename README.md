@@ -1,12 +1,16 @@
-# OOP-Lab-Mid
+**# OOP-Lab-Mid**
 
 
-Task Group 1: Restaurant Reservation System
-Scenario:
+
+
+
+                  **Task Group 1: Restaurant Reservation System**
+**Scenario:**
 You have 1 hour and 15 minutes to develop a restaurant reservation system. Customers should be
 able to view available time slots, select a preferred time, and provide necessary details for the
 reservation. After completing the implementation, you will have 45 minutes for evaluation.
-Implementation Guidelines:
+
+**Implementation Guidelines:**
 1. Create classes for Reservation and Restaurant, each with appropriate attributes and
 methods.
 2. Implement methods in the Restaurant class to manage available time slots and accept
@@ -22,12 +26,13 @@ are correctly defined with appropriate attributes and methods.
 and make reservations successfully.
 3. Assess the user interface for usability and functionality, ensuring that customers can easily
 navigate the reservation system and make bookings.
-Submission Instructions:
+
+**Submission Instructions:**
 1. Upload your code to a public GitHub repository.
 2. Run the code and capture the output of the restaurant reservation system.
 3. Create a PDF document with the following:
- A list of key classes used in your implementation along with brief descriptions.
- The URL of your GitHub repository properly formatted.
- Screenshots of the running code output, including examples of viewing available
+   A list of key classes used in your implementation along with brief descriptions.
+   The URL of your GitHub repository properly formatted.
+   Screenshots of the running code output, including examples of viewing available
 time slots, making reservations, and confirmation messages.
-4. Submit the PDF document along with the screenshots of the running code output. 
+5. Submit the PDF document along with the screenshots of the running code output. 
