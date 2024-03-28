@@ -4,8 +4,12 @@
 
 
 
-                  **Task Group 1: Restaurant Reservation System**
+                      **Task Group 1: Restaurant Reservation System**
+
+
+                      
 **Scenario:**
+
 You have 1 hour and 15 minutes to develop a restaurant reservation system. Customers should be
 able to view available time slots, select a preferred time, and provide necessary details for the
 reservation. After completing the implementation, you will have 45 minutes for evaluation.
@@ -32,10 +36,11 @@ navigate the reservation system and make bookings.
 2. Run the code and capture the output of the restaurant reservation system.
 3. Create a PDF document with the following:
 
-   A list of key classes used in your implementation along with brief descriptions.
+  -> A list of key classes used in your implementation along with brief descriptions.
 
-   The URL of your GitHub repository properly formatted.
+  -> The URL of your GitHub repository properly formatted.
   
-   Screenshots of the running code output, including examples of viewing available
+  -> Screenshots of the running code output, including examples of viewing available
 time slots, making reservations, and confirmation messages.
+
 5. Submit the PDF document along with the screenshots of the running code output. 
