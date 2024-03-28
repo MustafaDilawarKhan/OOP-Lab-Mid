@@ -31,8 +31,11 @@ navigate the reservation system and make bookings.
 1. Upload your code to a public GitHub repository.
 2. Run the code and capture the output of the restaurant reservation system.
 3. Create a PDF document with the following:
+
    A list of key classes used in your implementation along with brief descriptions.
+
    The URL of your GitHub repository properly formatted.
+  
    Screenshots of the running code output, including examples of viewing available
 time slots, making reservations, and confirmation messages.
 5. Submit the PDF document along with the screenshots of the running code output. 
